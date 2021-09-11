@@ -1,24 +1,24 @@
 {
-  "store_id": 6804,
-  "name": "decriearte",
   "domain": "decriearte.netlify.app",
-  "short_name": "decriearte",
-  "description": "decriearte",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#2d1703",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/decriearte",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Decrie - Arte em Madeira",
+  "short_name": "DecrieArte",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/decriearte"
+  "secondary_color": "#2d1703",
+  "icon": "/img/uploads/favicon.png",
+  "store_id": 6804,
+  "description": "Peças em madeira para servir, decorar e presentear. Peças personalizadas.",
+  "large_icon": "/img/uploads/favicon.png"
 }
