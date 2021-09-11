@@ -1,18 +1,18 @@
 {
   "shipping": {
-    "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "show": false,
+    "text": "FRETE GRÁTIS para compras acima de R$500"
   },
   "installments": {
-    "show": true,
-    "text": "Parcele sem juros"
+    "show": false,
+    "text": "3x sem juros no cartão de crédito"
   },
   "exchange": {
-    "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "show": false,
+    "text": ""
   },
   "promo": {
-    "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "show": false,
+    "text": "5% de desconto no boleto, transferência ou PIX"
   }
 }
