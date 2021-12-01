@@ -18,6 +18,7 @@
   }
   %>
 
+  <% if (1 != 1 ) {%> 
   <section
     class="products-carousel"
     data-size="<%= opt.items.length %>"
@@ -85,4 +86,40 @@
       </div>
     </div>
   </section>
+  <% } %>
+  <% if (1 == 1 ){%> 
+    <div class="container">
+    <section
+    class="products-grid"
+    data-title="<%= title %>"
+  > 
+    <ul>
+      <% if (!opt.headless) { %>
+        <h4 class="products-carousel__title">
+          <% if (opt.title || opt.collection) { %>
+            <% if (link) { %>
+              <a href="<%= link %>">
+                <%= title %>
+              </a>
+            <% } else { %>
+              <a href="<%= link %>"><%= title.split('|')[0] %> <b><%= title.split('|')[1] %></b></a>
+            <% } %>
+          <% } else { %>
+            <a href="/search">
+              <%= title %>
+            </a>
+          <% } %>
+        </h4>
+      <% } %>
+      <% for (let i = 0; i < opt.items.length; i++) { %>
+        <li class="products-item">
+          <%- await include('@/sections/inc/product-item', {
+            _, opt: { item: opt.items[i] }
+          }) %>
+        </li>
+      <% } %>      
+    </ul>
+  </section>
+  </div>
+  <% }%>
 <% } %>

@@ -1,18 +1,18 @@
 {
   "shipping": {
-    "show": false,
+    "show": true,
     "text": "FRETE GRÁTIS para compras acima de R$500"
   },
+  "promo": {
+    "show": true,
+    "text": "5% de desconto no boleto, transferência ou PIX"
+  },
   "installments": {
-    "show": false,
+    "show": true,
     "text": "3x sem juros no cartão de crédito"
   },
   "exchange": {
     "show": false,
     "text": ""
-  },
-  "promo": {
-    "show": false,
-    "text": "5% de desconto no boleto, transferência ou PIX"
   }
 }

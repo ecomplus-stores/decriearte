@@ -48,7 +48,7 @@ if (opt.img) {
             <% } %>
           >
         <% }) %>
-        <% if (opt.sync_load) { %>
+        <% if (opt.sync_load || 1 == 1) { %>
           <img
             src="<%= opt.img.replace('.webp', '.png') %>"
             alt="<%= opt.alt %>"
