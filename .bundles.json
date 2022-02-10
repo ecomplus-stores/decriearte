@@ -1,27 +1,28 @@
 {
   "assetsByChunkName": {
-    "vendors~app-account~app-checkout~app-confirmation~app-order": "chunk.1a3e77b34fd9e703dd60.js",
-    "vendors~app-account~app-confirmation~app-order": "chunk.9dbbbace1b2a4405c8cf.js",
-    "vendors~app-account~app-checkout": "chunk.c1f98ab52be471ab2bf8.js",
-    "vendors~app-cart~app-checkout": "chunk.98a6223f598d9e97a3cd.js",
+    "vendors~app-account~app-confirmation~app-order": "chunk.e5807397701aa80e13e6.js",
+    "vendors~app-account~app-checkout": "chunk.7576d355fae91f4d4b54.js",
+    "vendors~app-cart~app-checkout": "chunk.21dfe00e74d3834c9b52.js",
     "admin": [
-      "admin.856faa402acf14f83105.js",
-      "admin.856faa402acf14f83105.js.map"
+      "admin.1ea403f62c1a3ba4c734.js",
+      "admin.1ea403f62c1a3ba4c734.js.map"
     ],
-    "app-account": "chunk.4653e65ca055ca9f4090.js",
-    "app-checkout": "chunk.f953d0fe419667198ed8.js",
-    "app-confirmation": "chunk.fc502228605002ec285c.js",
-    "app-order": "chunk.07f26d1187c6dd2b61e4.js",
+    "app-account": "chunk.9fac4bd8508b9e3a9230.js",
+    "app-cart": "chunk.39ee742b7427fd37e132.js",
+    "app-checkout": "chunk.e9f9375ee4d0e5cb7f14.js",
+    "app-confirmation": "chunk.91bb965eb469f1ad2398.js",
+    "app-order": "chunk.71c3f8ec137b337c4668.js",
     "checkout": [
-      "checkout.81723ebcdd11bedf20d0.js",
-      "checkout.81723ebcdd11bedf20d0.js.map"
+      "checkout.978a384c8cf080221474.js",
+      "checkout.978a384c8cf080221474.js.map"
     ],
     "storefront": [
-      "storefront.7f6a736132b4dcd3e4be.css",
-      "storefront.7ce03de193604b347f0f.js",
-      "storefront.7f6a736132b4dcd3e4be.css.map",
-      "storefront.7ce03de193604b347f0f.js.map"
+      "storefront.df3040113b67dd0e199a.css",
+      "storefront.24e1342c89abd142423d.js",
+      "storefront.df3040113b67dd0e199a.css.map",
+      "storefront.24e1342c89abd142423d.js.map"
     ],
-    "vendors~app-cart": "chunk.f3e813f6ef60b7cb1022.js"
+    "vendors~app-cart": "chunk.220b7427d4853c425c7e.js",
+    "vendors~app-checkout": "chunk.43a8214c8a9499ddea44.js"
   }
 }
