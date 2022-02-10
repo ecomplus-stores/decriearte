@@ -2,14 +2,7 @@
   "meta_title": "",
   "meta_description": "",
   "sections": [
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": "62050b5f7963422eeef7ff12:collections:Blow:/blow",
-      "limit": 6,
-      "page": 1,
-      "headless": true
-    },
+    
     {
       "type": "responsive-banner",
       "img": "/img/uploads/bn1.png"
@@ -21,6 +14,14 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/bn3.png"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "collection_id": "62050b5f7963422eeef7ff12:collections:Blow:/blow",
+      "limit": 5,
+      "page": 1,      
+      "title": "Produtos | EM DESTAQUE"
     },
     {
       "type": "collection-shelf",

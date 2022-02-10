@@ -10,4 +10,3 @@ if($('#page-home').length > 0 ){
         $(this).closest('.banner').append(div);
     })
 }
-
