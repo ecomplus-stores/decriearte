@@ -3,6 +3,14 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "collection_id": "62050b5f7963422eeef7ff12:collections:Blow:/blow",
+      "limit": 6,
+      "page": 1,
+      "headless": true
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/bn1.png"
     },
@@ -21,7 +29,6 @@
       "limit": 5,
       "page": 1,
       "title": "Produtos | EM DESTAQUE"
-      
     },
     {
       "type": "banners-grid",
@@ -43,8 +50,7 @@
           "mobile_img": "",
           "link": "/",
           "alt": "Novos Modelos | PARA SERVIR E ENCANTAR!"
-        }
-        ,
+        },
         {
           "img": "/img/uploads/mb4.png",
           "mobile_img": "",
@@ -52,14 +58,6 @@
           "alt": "Torcer ficou lindo! | SEU TIME DO CORAÇÃO"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "limit": 6,
-      "page": 1,
-      "headless": true
     }
   ]
 }
