@@ -9,6 +9,9 @@
     --cor5: #442a19;
     --p:13px;
     --menu:14px;
+
+    
+    
 }
 .justify-content-end{justify-content: flex-end;}
 .justify-content-start{justify-content: flex-start;}
@@ -103,7 +106,7 @@ header .svg-ico svg{max-height:100%;max-width:100%;display:block}
     display: block;
     padding: 1rem;
     font-style: italic;
-    font-weight: 100;
+    font-weight: 200;
     text-decoration:none;
 }
 .products-grid ul > h4 a > b{
@@ -265,110 +268,179 @@ body iframe:last-child{display:none}
 .footer .atendimento li div{font-size:13px;font-weight:400;color:var(--cor1);line-height:initial;}
 .footer .atendimento li b{display:block}
 
-// APP GIFTS
-// #app-blow_gummies{}
-// #app-blow_gummies .freebie-rule{
-//     display: flex;
-//     align-items: flex-start;
-//     gap: 30px;
-//     justify-content: flex-start;
-//     margin-bottom:2rem
-// }
-// #app-blow_gummies .freebie-rule .freebie-item{
-//     display: flex;
-//     align-items: center;
-//     flex-direction: column;
-//     gap: 15px;
-//     border: 1px solid #f2f2f2;
-//     padding: 10px;
-//     border-radius: 5px;
-//     width:130px;
-// }
-// #app-blow_gummies .freebie-rule-name{}
-// #app-blow_gummies .freebie-rule .freebie-item img{max-height:80px}
-// #app-blow_gummies .freebie-rule .freebie-item label{margin:0;font-size:12px}
-// #app-blow_gummies .freebie-rule .freebie-item button{
-//     font-size:12px;
-//     border:1px solid;
-//     border-color: #212529;
-//     width:105px;
-// }
-// #app-blow_gummies .freebie-rule .freebie-item button.active{background:green;border-color:green;color:#fff}
-// #app-blow_gummies .freebie-rule .freebie-item select{
-//     width: 100%;
-//     border-radius: 3px;
-//     padding: 3px 5px;
-// }
-// #app-blow_gummies .freebie-rule .freebie-item select.readonly{
-//     background: #f2f2f2;
-//     cursor: not-allowed;
-//     pointer-events: none;
-// }
+.product-card__prices .prices__installments{
+    text-align:center;
+    font-size:11px;
+    margin-top:3px;
+    font-weight:400;
+}
+.product-card__prices .prices__installments > span:before{content:"de "}
 
-// #app-blow_gummies .freebie-rule .freebie-item.already_selected{
-//     cursor: not-allowed;
-//     filter: grayscale(1);
+.products-carousel__title.custom:before{display:none}
+.products-carousel__title.custom b{
+    display: block;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 38px;
+}
+.products-carousel__title.custom{
+    color: var(--cor1);
+    font-weight: 200;
+    font-size: 30px;
+    font-style: italic;
+}
+#product-block .w-100{width:100%}
+#product-block h1.product__name{
+    color:var(--cor1);
+    font-size:22px;
+    margin:0
+}
+#product-block .product__sku{
+    margin:0;
+    font-size:12px;
+}
+// #product-block > .container > #product > .row > .col{
+//     display:flex;
+//     flex-direction:row;
+//     flex-wrap:wrap;
+//     justify-content: space-between;
+//     align-items: center;
 // }
-// #app-blow_gummies .freebie-rule .freebie-item.already_selected > span:first-child{
-//     position: absolute;
-//     background: #000;
-//     color: #fff;
-//     font-size: 10px;
-//     width: 100%;
-//     text-align: center;
-//     padding: 5px;
-//     top: 0;
-//     border-radius: 3px 3px 0 0;
-// }
-// #app-blow_gummies .freebie-rule .freebie-item.already_selected *{
-//     pointer-events:none;
-// }
-// #app-blow_gummies .freebie-rule .freebie-item.already_selected select,
-// #app-blow_gummies .freebie-rule .freebie-item.already_selected button{display:none}
-// #app-blow_gummies{position:relative}
-// #loading_{
-//     background: rgba(0,0,0,.5);
-//     position: absolute;
-//     z-index: 2;
-//     height: 100%;
-//     width: 100%;
-//     text-align: center;
-//     padding: 1rem;
-//     border-radius: 10px;
-// }
-// .lds-ring {
-// display: inline-block;
-// position: relative;
-// width: 80px;
-// height: 80px;
-// }
-// .lds-ring div {
-// box-sizing: border-box;
-// display: block;
-// position: absolute;
-// width: 64px;
-// height: 64px;
-// margin: 8px;
-// border: 8px solid #fff;
-// border-radius: 50%;
-// animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
-// border-color: #fff transparent transparent transparent;
-// }
-// .lds-ring div:nth-child(1) {
-// animation-delay: -0.45s;
-// }
-// .lds-ring div:nth-child(2) {
-// animation-delay: -0.3s;
-// }
-// .lds-ring div:nth-child(3) {
-// animation-delay: -0.15s;
-// }
-// @keyframes lds-ring {
-// 0% {
-//     transform: rotate(0deg);
-// }
-// 100% {
-//     transform: rotate(360deg);
-// }
-// }
-  
+#product-block > .container > #product > .row > .col #product-actions{
+    width:100%;
+    margin-top:1rem;
+}
+#product .prices--big .prices__value{
+    font-size: 24px;
+    font-weight: normal;
+    color: var(--cor1);
+}
+#product .prices--big .prices__installments{
+    font-size:12px;
+    font-weight:bold;
+}
+#product .prices--big .prices__installments > small:first-child{display:none}
+#product .prices--big .prices__installments > small{font-weight:normal;}
+#product .prices--big .prices__installments > span{font-weight:bold;}
+
+#product .product__prices{
+    // border-bottom: 1px solid #f2f2f2;
+    padding-bottom: 1rem;
+    // margin-bottom: 1rem;
+}
+#product .shipping-calculator{padding-top:1rem}
+#product .product__customization{}
+#product .product__customization > label,
+#product .shipping-calculator .shipping-calculator__form [for="shipping-calculator-zip"]{
+    text-transform: uppercase;
+    color:var(--cor1);
+    font-weight:500;
+    font-size:15px;
+
+}
+#product .product__customization > input[type="text"]{
+    border:1px solid #313131;
+    border-radius:0;
+    max-width:250px;
+}
+
+#product  .product__buy{
+    display:flex;
+    align-items:center;
+    flex-direction: row;
+    gap:1rem;
+    // border-top: 1px solid #f2f2f2;
+    padding-top: 1rem;
+    // margin-top: 1rem;
+}
+#product  .product__buy > span > button{
+    background:#2ecc71;
+    border-radius:0;
+    text-transform:uppercase;
+    border:0;
+    font-weight:bold;
+    padding:.5rem 3rem;
+    font-size:18px;
+}
+#product  .product__buy > span > button > span{}
+#product  .product__buy > span > button > span > i{display:none}
+
+#product .apx_quantity_selector{
+    border: 1px solid #313131;
+    padding: 0.3rem;
+    display: flex;
+    align-items: center;
+}
+#product .shipping-calculator__form > .form-group > .input-group{
+    border: 1px solid #313131;
+    width: 300px;
+    justify-content: space-between;
+}
+#product .shipping-calculator__form > .form-group > .input-group *{border:0}
+#product .shipping-calculator__form > .form-group > .input-group button{
+    background: var(--cor1);
+    border-radius: 0;
+    color: #fff;
+    font-size: 12px;
+    line-height: normal;
+    min-height: auto;
+    padding: 0.5rem 1rem;
+    text-transform: uppercase;
+    border: 3px solid #fff;
+    margin: 0;
+}
+#product .shipping-calculator__form > .form-group > .input-group button i{display:none}
+#product .shipping-calculator__form > .form-group > .input-group button:after{
+    content:"Calcular";
+}
+#product .apx_quantity_selector button{
+    background: transparent;
+    border: 0;
+    color: var(--cor1);
+    font-size: 10px;
+    height: 28px;
+    padding: 0;
+    width: 28px;
+    line-height: 26px;
+}
+#product .apx_quantity_selector input{
+    border: 0;
+    font-size: 16px;
+    text-align: center;
+    width: 30px;
+    height: 31px;
+}
+
+#product .product__buy + .mb-3{display:none}
+
+.apx_shortdescription{margin-top:3rem;}
+.apx_shortdescription h4{
+    color:var(--cor1);
+    font-weight:500;
+    font-size:15px;
+    border-bottom:3px solid var(--cor1);
+    display:block;
+    width:fit-content;
+    padding-bottom:3px;
+    margin:0;
+}
+.apx_shortdescription h4 + hr{
+    margin-top:0;
+}
+.apx_shortdescription p.lead{
+    font-size:12px;
+}
+
+#product .product__payment{display:none}
+
+#product-description .lead a{display:none}
+
+#product-description .lead{color:var(--cor1);font-weight:500;font-size:0;margin-bottom:0;}
+#product-description .lead:after{content:"Detalhes do produto";font-size:18px;border-bottom:3px solid var(--cor1);display:block;width:fit-content;}
+#product-description .lead + .html-clearfix{    
+    border-top: 1px solid rgba(0,0,0,.1);
+    margin-top:0;
+    padding-top:1rem;
+    font-size:15px;
+    font-weight:300;
+}

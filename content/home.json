@@ -22,7 +22,7 @@
       "collection_id": null,
       "limit": 5,
       "page": 1,
-      "title": "Produtos | EM DESTAQUE"
+      "title": "Produtos | EM DESTAQUE [titulo-embutido]"
     },
     {
       "type": "banners-grid",

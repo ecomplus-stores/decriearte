@@ -22,7 +22,8 @@ if (Array.isArray(productIds) && productIds.length) {
   try {
     const search = new _.EcomSearch()
     await search.setProductIds(productIds).fetch()
-    const items = search.getItems()
+    const items = search.getItems().slice(0,3)
+
     %>
     <%- await include('@/sections/inc/products-carousel', {
       _, opt: { items, title, showcaseType }
