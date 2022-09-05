@@ -87,16 +87,28 @@ const barCols = []
 <% if (barCols.length) { %>
   <section class="apx_info-bar">
     <div class="container">
-      <div class="apx_info-bar__nav row justify-content-between">
-        <% barCols.forEach(({ link, icon, text }) => { %>
-          <div class="col-auto">
-            <a class="info-bar__item" href="<%= link || 'javascript:;' %>">
-              <div>
-                <%= text %>
-              </div>
-            </a>
-          </div>
-        <% }) %>
+      <div class="apx_info-bar__nav">
+        <div
+          class="glide "
+          data-wait-mutation="false"
+          data-per-view="3"
+          data-per-view-md="3"
+          data-per-view-sm="1"
+          data-autoplay="3000"
+        >
+        <div class="glide__track" data-glide-el="track">
+          <ul class="glide__slides">
+          <% barCols.forEach(({ link, icon, text }) => { %>
+            <li class="glide__slide ">
+              <a class="info-bar__item" href="<%= link || 'javascript:;' %>">
+                <div>
+                  <%= text %>
+                </div>
+              </a>
+            </li>
+          <% }) %>
+          </ul>
+        </div>
       </div>
     </div>
   </section>
@@ -283,9 +295,9 @@ const barCols = []
             </div>
           <% } %>
         </div>
-        <div class="row justify-content-end mt-3">
+        <div class="row justify-content-end mt-0 mt-md-3">
           <% if (categories && categories.length) { %>
-            <div class="d-lg-block">
+            <div class="d-lg-block d-none">
               <nav class="header__nav<%= isCategoriesNavFull ? ' header__nav--full' : '' %>">
                 <% categories.forEach(({ slug, name }) => { %>
                   <a href="javascript:;" class="ml-lg-4" onclick="toggleSidenav('<%= slug %>')">

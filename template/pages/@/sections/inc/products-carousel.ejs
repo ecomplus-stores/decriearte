@@ -130,7 +130,7 @@
         </h4>
       <% } %>
       <% for (let i = 0; i < opt.items.length; i++) { %>
-        <li class="products-item">
+        <li class="products-item <%= (i == opt.items.length - 1 && i/2 != 0) ? 'odd' : '' %>">
           <%- await include('@/sections/inc/product-item', {
             _, opt: { item: opt.items[i] }
           }) %>

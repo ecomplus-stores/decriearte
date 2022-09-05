@@ -165,10 +165,12 @@ header .svg-ico svg{max-height:100%;max-width:100%;display:block}
 
 #apx_fullBannerGrid + .collection-shelf + .banners-grid{}
 #apx_fullBannerGrid + .collection-shelf + .banners-grid > .container > .row{}
+@media(min-width:990px){
 #apx_fullBannerGrid + .collection-shelf + .banners-grid > .container > .row > div{
     flex:0 0 50%;
     max-width:100%;
     margin-bottom:60px;
+}
 }
 .apx_BannerGridCall{
     padding: 15px 0;
@@ -444,3 +446,84 @@ body iframe:last-child{display:none}
     font-size:15px;
     font-weight:300;
 }
+
+.apx_info-bar .info-bar__item{text-align:center}
+.apx_info-bar .info-bar__item a,
+.apx_info-bar .info-bar__item div{width:100%;display:block;}
+@media(max-width:900px){
+    .apx_info-bar .info-bar__item{max-width:100%;}
+    .header__logo{
+        height: 80px;
+        margin: 5px 0;
+    }
+    #apx_fullBannerGrid{
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        left: auto;
+        padding: 0 15px;
+        transform: unset;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 15px;
+    }
+    .products-grid ul > h4{flex: 0 0 100%;}
+    
+    .products-grid ul > li{flex:0 0 50%;}
+    .products-grid ul{
+        display:flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .products-grid ul>h4 a{
+        font-size:18px;
+        line-height:24px;
+        position:relative;
+        top:auto;
+        transform:unset;
+        padding:0;
+    }
+    
+    .products-grid ul>h4 a>b{
+
+    }
+    #page-home .products-grid .odd,
+    #page-products .products-grid .odd{display:none}
+
+    .apx_BannerGridCall label{font-size:20px}
+    .apx_BannerGridCall label strong{font-size:16px}
+    .apx_BannerGridCall a{
+        height: 40px;
+        padding: 0 15px;
+    }
+    .apx_newsletter h4{font-size:24px}
+    .ecom-credits{
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        gap: 20px;
+    }
+    .footer__payment-methods{margin-bottom:3rem;}
+    .footer__payment-methods,
+    .ecom-credits>div:first-child *,
+    .footer .atendimento li *,
+    .footer__links,
+    .footer h4{text-align:center}
+    .footer__links li>a:before{display:none}
+
+    .footer .atendimento li{justify-content:center;}
+
+    .products-carousel__title a, .products-carousel__title span,
+    .products-carousel__title.custom b{font-size:24px}
+
+    .apx_newsletter img{height:50px}
+    
+    // .header{
+    //     position: sticky;
+    //     top: -1px;
+    //     background: #fff;
+    // }
+}
+
+/* FLOATING WHATSAPP */ 
+.theme_worker-floatingWhatsapp{position: fixed; bottom: 60px; right: 30px; z-index: 999;}.theme_worker-floatingWhatsapp > a > span{box-shadow: 0px 0px 10px rgb(0 0 0 / 10%); top: 50%; position: absolute; right: calc(100% + 15px); padding: 10px; font-size: 12px; width: 150px; text-align: center; border-radius: 5px; transform: translate(0,-50%);}.theme_worker-floatingWhatsapp > a > span:after{content: ""; border-left: 10px solid #f8f8f8; border-top: 7px solid transparent; border-bottom: 7px solid transparent; left: 100%; position: absolute; top: calc(50% - 7px);}@media(max-width:990px){.theme_worker-floatingWhatsapp > a >span{display:none;}}
