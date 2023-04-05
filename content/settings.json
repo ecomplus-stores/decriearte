@@ -1,7 +1,7 @@
 {
-  "domain": "decriearte.netlify.app",
+  "domain": "decriearte.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#2d1703",
+  "primary_color": "#492a17",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -10,11 +10,13 @@
   "repository": "ecomplus-stores/decriearte",
   "logo": "/img/uploads/logo.png",
   "name": "Decrie - Arte em Madeira",
-  "short_name": "DecrieArte",
+  "short_name": "Decrie",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
+  "font_family": "Montserrat",
   "favicon": "/img/uploads/favicon.png",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#2d1703",
   "icon": "/img/uploads/favicon.png",
