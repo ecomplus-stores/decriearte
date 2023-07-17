@@ -5,11 +5,15 @@
   },
   "contacts_stripe": {
     "pages": [],
-    "phone_wpp": false,
-    "socials": false
+    "phone_wpp": true,
+    "socials": true
   },
   "categories_list": {
-    "featured": ["?Produtos","?Datas Comemorativas","?Coleções","?Corporativo","?Outlet"],
+    "featured": [
+      "/dia-dos-pais?Dia dos Pais",
+      "/homedecor?Home&Decor",
+      "/tabuas-de-frios?Tábuas de Frios"
+    ],
     "random": 0,
     "full_width": true
   },
