@@ -2,7 +2,6 @@
   "meta_title": "",
   "meta_description": "",
   "sections": [
-    
     {
       "type": "responsive-banner",
       "img": "/img/uploads/bn1.png"
@@ -13,45 +12,17 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/bn3.png"
+      "img": "/img/uploads/banner-home-1.png",
+      "link": "https://decriearte.netlify.app/homedecor"
     },
- 
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
+      "shuffle": false,
+      "collection_id": "649d72005e606903704cf879:categories:Dia dos Pais:/dia-dos-pais",
       "limit": 5,
       "page": 1,
-      "title": "Produtos | EM DESTAQUE [titulo-embutido]"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/mb1.png",
-          "mobile_img": "",
-          "link": "/",
-          "alt": "Tábuas de Corte | SUA COZINHA PRÁTICA"
-        },
-        {
-          "img": "/img/uploads/mb2.png",
-          "mobile_img": "",
-          "link": "/",
-          "alt": "Estilo para sua casa | TÁBUAS ESPECIAIS"
-        },
-        {
-          "img": "/img/uploads/mb3.png",
-          "mobile_img": "",
-          "link": "/",
-          "alt": "Novos Modelos | PARA SERVIR E ENCANTAR!"
-        },
-        {
-          "img": "/img/uploads/mb4.png",
-          "mobile_img": "",
-          "link": "/",
-          "alt": "Torcer ficou lindo! | SEU TIME DO CORAÇÃO"
-        }
-      ]
+      "title": "Produtos | EM DESTAQUE [titulo-embutido]",
+      "sort": "news"
     }
   ]
 }
