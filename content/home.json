@@ -5,7 +5,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/dia-dos-pais.png",
-      "link": "https://www.decriearte.com.br/dia-dos-pais"
+      "link": "https://www.decriearte.com.br/dia-dos-pais",
+      "mobile_img": "/img/uploads/dia-dos-pais.png"
     },
     {
       "type": "responsive-banner",
