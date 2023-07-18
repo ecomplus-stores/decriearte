@@ -14,11 +14,6 @@
       "link": "https://drive.google.com/file/d/1CPT6FH5SJZSktfw3OG3cm3XLDz2QFV54/view?usp=drive_link"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-home-1-1.png",
-      "link": "https://decriearte.netlify.app/homedecor"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": "649d72005e606903704cf879:categories:Dia dos Pais:/dia-dos-pais",
