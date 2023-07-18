@@ -11,8 +11,10 @@
   "categories_list": {
     "featured": [
       "/dia-dos-pais?Dia dos Pais",
+      "/canto-do-churrasco?Canto do Churrasco",
       "/homedecor?Home&Decor",
-      "/tabuas-de-frios?Tábuas de Frios"
+      "/tabuas-de-frios?Tábuas de Frios",
+      "/produtos?Produtos"
     ],
     "random": 0,
     "full_width": true
