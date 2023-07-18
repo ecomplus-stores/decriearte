@@ -4,9 +4,9 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/dia-dos-pais.png",
+      "img": "/img/uploads/dia-dos-pais-1-.png",
       "link": "https://www.decriearte.com.br/dia-dos-pais",
-      "mobile_img": "/img/uploads/dia-dos-pais.png"
+      "mobile_img": "/img/uploads/dia-dos-pais-mobile.png"
     },
     {
       "type": "responsive-banner",
