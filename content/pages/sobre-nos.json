@@ -2,5 +2,11 @@
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "A idealização surgiu dos netos de uma família italiana que tem como sustento o trabalho com a madeira desde a década de 1940, com o espirito empreendedor e inovador passado de geração a geração. \nA Decrie Arte vem do verbo ''criar'', nosso intuito é transformar e ressignificar peças em madeira. Essa matéria prima tão atemporal que muitas vezes é descartada por não ter utilidade, aqui na Decrie, passa por uma seleção onde são escolhidas e confeccionadas com muito carinho, uma a uma. \nPor ser natural cada peça tem suas características, tornando- as únicas e exclusivas, sua beleza natural é engrandecida por nós em soluções criativas para todas as situações do cotidiano, peças e presentes personalizados cheios de significados."
+  "body": "A idealização surgiu dos netos de uma família italiana que tem como sustento o trabalho com a madeira desde a década de 1940, com o espirito empreendedor e inovador passado de geração a geração. \nA Decrie Arte vem do verbo ''criar'', nosso intuito é transformar e ressignificar peças em madeira. Essa matéria prima tão atemporal que muitas vezes é descartada por não ter utilidade, aqui na Decrie, passa por uma seleção onde são escolhidas e confeccionadas com muito carinho, uma a uma. \nPor ser natural cada peça tem suas características, tornando- as únicas e exclusivas, sua beleza natural é engrandecida por nós em soluções criativas para todas as situações do cotidiano, peças e presentes personalizados cheios de significados.",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/sobre-no-s.png"
+    }
+  ]
 }
