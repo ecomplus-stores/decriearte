@@ -59,9 +59,16 @@ header .svg-ico svg{max-height:100%;max-width:100%;display:block}
 #apx_fullBannerGrid > div:nth-child(1){grid-area:bn1}
 #apx_fullBannerGrid > div:nth-child(2){
     grid-area:bn2;
-    height: 50%;
+    .banner {
+        height: 50%;
+    }
 }
-#apx_fullBannerGrid > div:nth-child(3){grid-area:bn3; height: 50%;}
+#apx_fullBannerGrid > div:nth-child(3){
+    grid-area:bn3; 
+    .banner {
+        height: 50%;
+    }
+}
 #apx_fullBannerGrid{
     width: 100%;
     position: relative;
@@ -72,9 +79,9 @@ header .svg-ico svg{max-height:100%;max-width:100%;display:block}
         "bn1 bn2"
         "bn1 bn3";
     gap:12px;
-    grid-template-columns: 56.75% auto;
+    grid-template-columns: 63.75% auto;
     @media(min-width: 1440px) {
-        grid-template-columns: 56.64% auto;
+        grid-template-columns: 63.64% auto;
     }
     .banner {
         width: 100%;
