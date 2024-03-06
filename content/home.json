@@ -4,9 +4,9 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/churrasco.jpg",
-      "link": "https://www.decriearte.com.br/canto-do-churrasco",
-      "mobile_img": "/img/uploads/churrasco.jpg"
+      "img": "/img/uploads/dia-dos-pais.png",
+      "link": "https://www.decriearte.com.br/pascoa",
+      "mobile_img": "/img/uploads/dia-dos-pais.png"
     },
     {
       "type": "responsive-banner",
