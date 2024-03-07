@@ -21,11 +21,11 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "64b59a8d5e6069037067fc31:categories:Tábuas de Frios:/tabuas-de-frios",
-      "limit": 5,
+      "collection_id": "65e7860887ab487fbfd75497:categories:Páscoa:/pascoa",
+      "limit": 7,
       "page": 1,
       "title": "Produtos | EM DESTAQUE [titulo-embutido]",
-      "sort": "offers"
+      "sort": "news"
     }
   ]
 }
