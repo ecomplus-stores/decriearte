@@ -3,6 +3,18 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/whatsapp-image-2024-05-13-at-09.48.51.jpeg"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/7705fc36-1e0f-4f1d-b8ce-d4f168c54425.png",
       "link": "https://www.decriearte.com.br/pascoa",
