@@ -3,10 +3,22 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-churrasco.jpeg"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
-      "img": "/img/uploads/churrasco.jpg",
-      "link": "https://www.decriearte.com.br/canto-do-churrasco",
-      "mobile_img": "/img/uploads/churrasco.jpg"
+      "img": "/img/uploads/7705fc36-1e0f-4f1d-b8ce-d4f168c54425.png",
+      "link": "https://www.decriearte.com.br/pascoa",
+      "mobile_img": "/img/uploads/7705fc36-1e0f-4f1d-b8ce-d4f168c54425.png"
     },
     {
       "type": "responsive-banner",
