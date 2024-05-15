@@ -35,6 +35,11 @@
       "page": 1,
       "title": "Produtos | EM DESTAQUE [titulo-embutido]",
       "sort": "news"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
     }
   ]
 }
