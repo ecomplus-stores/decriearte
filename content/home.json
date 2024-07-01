@@ -10,6 +10,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/dia-dos-pais-1280-x-500-px-.png",
+          "link": "https://www.decriearte.com.br/dia-dos-pais"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/4.png",
           "link": "https://www.decriearte.com.br/canto-do-churrasco"
         },
@@ -24,12 +30,6 @@
           "end": "",
           "img": "/img/uploads/5.png",
           "link": "https://www.decriearte.com.br/homedecor"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/dia-dos-pais-1280-x-500-px-.png",
-          "link": "https://www.decriearte.com.br/dia-dos-pais"
         }
       ]
     },
