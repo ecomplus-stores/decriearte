@@ -57,6 +57,12 @@
       "sort": "views"
     },
     {
+      "type": "brands-carousel",
+      "limit": 4,
+      "offset": 0,
+      "sort": "name"
+    },
+    {
       "type": "shelfs-nav",
       "shuffle": false,
       "limit": 8,
