@@ -11,6 +11,12 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/dia-dos-pais-1280-x-500-px-.png",
+          "link": "https://www.decriearte.com.br/kit-uso-exclusivo--caixa-tabua-faca-tridente-no-suporte-e-pano-atoalhado"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/colec-a-o-nocaubhjvhjbjh-.png",
           "link": "https://www.decriearte.com.br/dia-dos-pais"
         },
         {
@@ -34,33 +40,13 @@
       ]
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2024-07-08T19:37:28.525Z",
-      "end": "2024-07-18T19:37:28.543Z",
-      "offers": [
-        "64c283075e6069037075819c",
-        "64b7195f5e6069037069a440",
-        "64b70b455e60690370698ea4",
-        "64b6ed995e6069037069649f",
-        "64b6e8665e606903706959ef",
-        "64b6e3ff5e60690370694f70",
-        "64b6dbd55e60690370693b1e",
-        "64b6da875e6069037069374d",
-        "649d71d35e606903704cf85a",
-        "648afc265e606903703a4a5a",
-        "648af4cb5e606903703a4131",
-        "642dd60e4bd2e929c1c357af"
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
       "limit": 5,
       "page": 1,
       "title": "EM DESTAQUE [titulo-embutido]",
-      "sort": "news"
+      "sort": "views"
     },
     {
       "type": "info-bar",
