@@ -10,12 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/colec-a-o-nocaubhjvhjbjh-.png",
-          "link": "https://www.decriearte.com.br/dia-dos-pais"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/4.png",
           "link": "https://www.decriearte.com.br/canto-do-churrasco"
         },
@@ -40,7 +34,7 @@
       "limit": 5,
       "page": 1,
       "title": "EM DESTAQUE [titulo-embutido]",
-      "sort": "views"
+      "sort": "news"
     },
     {
       "type": "info-bar",
@@ -49,17 +43,17 @@
     {
       "type": "shelfs-nav",
       "shuffle": false,
-      "limit": 8,
+      "limit": 6,
       "page": 1,
       "collection_ids": [
-        "649d72005e606903704cf879:categories:Dia dos Pais:/dia-dos-pais"
+        "64b592ef5e6069037067f18b:categories:Canto do Churrasco:/canto-do-churrasco"
       ],
       "sort": "views"
     },
     {
       "type": "shelfs-nav",
       "shuffle": false,
-      "limit": 8,
+      "limit": 3,
       "page": 1,
       "collection_ids": [
         "64b59a8d5e6069037067fc31:categories:Tábuas de Frios:/tabuas-de-frios"
