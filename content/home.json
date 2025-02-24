@@ -41,11 +41,11 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "collection_id": "65e7860887ab487fbfd75497:categories:Páscoa:/pascoa",
       "limit": 5,
       "page": 1,
       "title": "EM DESTAQUE [titulo-embutido]",
-      "sort": "news"
+      "sort": "sales"
     },
     {
       "type": "info-bar",
@@ -57,9 +57,9 @@
       "limit": 6,
       "page": 1,
       "collection_ids": [
-        "64b592ef5e6069037067f18b:categories:Canto do Churrasco:/canto-do-churrasco"
+        "65e7860887ab487fbfd75497:categories:Páscoa:/pascoa"
       ],
-      "sort": "views"
+      "sort": "sales"
     },
     {
       "type": "shelfs-nav",
@@ -67,7 +67,7 @@
       "limit": 3,
       "page": 1,
       "collection_ids": [
-        "64b59a8d5e6069037067fc31:categories:Tábuas de Frios:/tabuas-de-frios"
+        "64b592ef5e6069037067f18b:categories:Canto do Churrasco:/canto-do-churrasco"
       ],
       "sort": "sales"
     }
