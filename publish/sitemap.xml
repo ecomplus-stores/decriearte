@@ -380,36 +380,6 @@
     </url>
   
     <url>
-      <loc>https://decriearte.com.br/homedecor</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://decriearte.com.br/corona</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://decriearte.com.br/spaten</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://decriearte.com.br/seara</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://decriearte.com.br/heineken</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://decriearte.com.br/produtos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -429,6 +399,12 @@
   
     <url>
       <loc>https://decriearte.com.br/tabuas-de-churrasco</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://decriearte.com.br/homedecor</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -471,6 +447,30 @@
   
     <url>
       <loc>https://decriearte.com.br/ume-ceramicas-x-decrie</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://decriearte.com.br/corona</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://decriearte.com.br/spaten</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://decriearte.com.br/seara</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://decriearte.com.br/heineken</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
