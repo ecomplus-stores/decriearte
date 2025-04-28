@@ -10,12 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/pascoa-banner.png",
-          "link": "https://www.decriearte.com.br/pascoa"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/4.png",
           "link": "https://www.decriearte.com.br/canto-do-churrasco"
         },
@@ -42,7 +36,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "65e7860887ab487fbfd75497:categories:Páscoa:/pascoa",
+      "collection_id": "64b592ef5e6069037067f18b:categories:Canto do Churrasco:/canto-do-churrasco",
       "limit": 5,
       "page": 1,
       "title": "EM DESTAQUE [titulo-embutido]",
@@ -58,7 +52,9 @@
       "limit": 6,
       "page": 1,
       "collection_ids": [
-        "65e7860887ab487fbfd75497:categories:Páscoa:/pascoa"
+        "64b59a8d5e6069037067fc31:categories:Tábuas de Frios:/tabuas-de-frios",
+        "64b58e9e5e6069037067e9a1:categories:Home&Decor:/homedecor",
+        "66aa991c86679971c6302958:categories:Anti-pastos:/anti-pastos"
       ],
       "sort": "sales"
     },
