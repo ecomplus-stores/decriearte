@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://decriearte.com.br/homedecor</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://decriearte.com.br/kit-churrasco-personalizado--tabua-de-churrasco-petisqueira-e-abridor-de-garrafas-de-mao</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -416,30 +410,6 @@
     </url>
   
     <url>
-      <loc>https://decriearte.com.br/corona</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://decriearte.com.br/spaten</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://decriearte.com.br/seara</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://decriearte.com.br/heineken</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://decriearte.com.br/produtos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -459,6 +429,12 @@
   
     <url>
       <loc>https://decriearte.com.br/tabuas-de-churrasco</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://decriearte.com.br/homedecor</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -512,6 +488,30 @@
     </url>
   
     <url>
+      <loc>https://decriearte.com.br/corona</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://decriearte.com.br/spaten</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://decriearte.com.br/seara</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://decriearte.com.br/heineken</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://decriearte.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -524,13 +524,13 @@
     </url>
   
     <url>
-      <loc>https://decriearte.com.br/pages/sobre-nos</loc>
+      <loc>https://decriearte.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://decriearte.com.br/pages/privacidade</loc>
+      <loc>https://decriearte.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
