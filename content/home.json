@@ -65,20 +65,11 @@
       "page": 1,
       "collection_ids": [
         "64b59a8d5e6069037067fc31:categories:Tábuas de Frios:/tabuas-de-frios",
-        "64b58e9e5e6069037067e9a1:categories:Home&Decor:/homedecor",
-        "66aa991c86679971c6302958:categories:Anti-pastos:/anti-pastos"
-      ],
-      "sort": "sales"
-    },
-    {
-      "type": "shelfs-nav",
-      "shuffle": false,
-      "limit": 3,
-      "page": 1,
-      "collection_ids": [
         "66aa991c86679971c6302958:categories:Anti-pastos:/anti-pastos",
-        "649ed04e5e606903704ecbed:categories:Petisqueiras:/petisqueiras",
-        "64b59a8d5e6069037067fc31:categories:Tábuas de Frios:/tabuas-de-frios"
+        "649ed05c5e606903704ecbfa:categories:Coleção Romântica:/tabuas-de-churrasco",
+        "659e95982cd6b65959fb6ee7:categories:Casamento:/casamento",
+        "6823486a578b5f795415e1b8:categories:Peças Religiosas:/pecas-religiosas",
+        "66aa993d86679971c6302995:categories:Colheres de madeira:/colheres-de-madeira"
       ],
       "sort": "sales"
     }
