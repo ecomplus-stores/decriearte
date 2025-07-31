@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.91f558a11dc6f724538f9dd5404514ec.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.5374da124d774d595d35671619d15f52.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.48ccb966ce7240b67234ebb57e4a8a8d.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.c709d36eca0b4a5c3dfee6389aa0bd4b.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ce181866dd12685a97ff95a6bb60338f.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Decrie - Arte em Madeira",
+  "short_name": "Decrie",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Peças em madeira para servir, decorar e presentear. Peças personalizadas. ",
+  "background_color": "#f1eae2",
+  "theme_color": "#492a17"
+}
